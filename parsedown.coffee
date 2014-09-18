@@ -1,5 +1,5 @@
 
-# This is a coffee-script port for Parsedown (http://parsedow.org)
+# This is a coffee-script port for Parsedown (http://parsedown.org)
 # author: joyqi (http://www.l4zy.com)
 # homepage: http://github.com/joyqi/parsedown-coffee
 
